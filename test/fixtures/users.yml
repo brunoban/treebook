@@ -3,3 +3,9 @@ bruno:
     last_name: "Bandeira de Azevedo"
     email: "bruno.bandeira@gmail.com"
     profile_name: "brunoban"
+
+bob: 
+    first_name: "Robert"
+    last_name: "Sponge"
+    email: "spongebob@underthesea.com"
+    profile_name: "spongebob"
